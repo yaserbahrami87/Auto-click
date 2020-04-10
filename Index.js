@@ -29,7 +29,7 @@
                    a[i].addEventListener('mousedown', e =>
                     {
                        switch (e.button)
-                       {a
+                       {
                            case 0:
                                alert("Left");
                                break;
